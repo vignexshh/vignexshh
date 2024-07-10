@@ -1,5 +1,5 @@
-<h1> Hello Igga </h1>
-Vithan Vignesh T D  is a software engineer from mysore - bangalore region, karnataka - with a degree in computer science engineering with data science specialisation. He ran 3 fatal projects. Does projects with atleast less downtimes as compared to meta. 
+<h1> Hello Brotha </h1>
+Vithan Vignesh T D  is a software developer from mysore - bangalore region, karnataka - with a degree in computer science engineering, data science specialisation. 3.4CGPA , 2 Backlogs. He ran 3 fatal projects. Does projects with atleast less downtimes as compared to meta. 
 <h2> Stacks </h2>
 Data Engineering + Analysis [Py, R] 
 DevOps + Cloud [Kubernetes, Dockers, Shared, MLClouds, Services : Digital Ocean + AWS]
