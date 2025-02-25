@@ -7,7 +7,7 @@ Interests : Graph Databases, Vector Stores, Redis is love.
 Designing tools i use : Photoshop, Illustrator, Webflow(Landing Pages), Ant Design (Fav UI), Figma / Excali / tldraw for planning. 
  
 
-<h2> Socials </h2>
+<h2> U can  ask me out here <3 </h2>
 Instagram https://www.instagram.com/vithannn 
 X / Twitter https://www.x.com/vvgnsh/
 Linkedin https://www.linkedin.com/in/vigneshtd/
