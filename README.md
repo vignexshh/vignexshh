@@ -1,5 +1,5 @@
-<h1> Hello Brotha </h1>
-Vithan Vignesh T D  is a software developer from mysore - bangalore region, karnataka - with a degree in computer science engineering, data science specialisation. 3.4CGPA , 2 Backlogs. He ran 3 fatal projects. Does projects with atleast less downtimes as compared to meta. 
+<h1> Iam Vignesh T D </h1>
+Life is really short, use python. 
 <h2> Stacks </h2>
 Languages : Python (Pandas, Numpy, Torch, OpenCV, Scktlrn) , C++, C, JavaScript + Typscript(React, NextJS) .
 Layered : CUDA, Docker, PostmanAPI, CMS, Load balancing, A/B Testing.
