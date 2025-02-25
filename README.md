@@ -1,4 +1,4 @@
-<h1> Iam Vignesh T D </h1>
+<h1> Iam Vignesh T D 🔪 </h1>
 Life is really short and fked up, use python. 
 <h2> We can have a yapping date if you are familiar with  these </h2>
 Languages : Python (Pandas, Numpy, Torch, OpenCV, Scktlrn) , C++, C, JavaScript + Typscript(React, NextJS) .
