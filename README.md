@@ -1,4 +1,4 @@
-<h1> Iam Vignesh T D 🔪 </h1>
+<h1> Namaste! </h1>
 Life is really short and fked up, use python. 
 <h2> Tech I can yap about </h2>
 
