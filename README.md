@@ -14,9 +14,5 @@ Designing tools i use : Photoshop, Illustrator, Webflow(Landing Pages), Ant Desi
 Instagram https://www.instagram.com/vithannn 
 X / Twitter https://www.x.com/vvgnsh/
 Linkedin https://www.linkedin.com/in/vigneshtd/
-Former community hosting : Unbank(web3), Masscoders(sold some course lol).
-
-Loves to read about medievel mankind histories, Indian administrative history, Societal Entropy related matters, functioning of cities, corps, business, kirana stores.
-
 
 
