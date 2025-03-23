@@ -4,7 +4,7 @@ Life is really short and fked up, use python.
 
 https://github.com/user-attachments/assets/0e2b1ca4-9a76-4ff3-b8eb-91ac3b62cb0c
 
-Languages : Python (Pandas, Numpy, Torch, OpenCV, Scktlrn) , C++, C, JavaScript + Typscript(React, NextJS) .
+Languages : Python (ella barutte) , C++, C, JavaScript + Typscript(React, NextJS) .
 Layered : CUDA, Docker, PostmanAPI, CMS, Load balancing, A/B Testing.
 Interests : Graph Databases, Vector Stores, Redis is love.
 Designing tools i use : Photoshop, Illustrator, Webflow(Landing Pages), Ant Design (Fav UI), Figma / Excali / tldraw for planning. 
